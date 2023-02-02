@@ -1,4 +1,4 @@
-# What are player currently holds
+# What our player currently holds
 Inventory = ["Wooden Sword", "Magic Hat", "Flame Orb"]
 
 # What are player has stumbled upon and wishes to add to their inventory
