@@ -9,7 +9,7 @@ Chest = ["Health Potion", "Stamina Potion", "Map of Floor"]
 # for item in Chest:
 #     Inventory.append(item)
 
-# Instead we of using the for loop, we could use Python's built in extend function
+# Instead of using the for loop, we could use Python's built in extend function
 Inventory.extend(Chest)
 
 print(Inventory)
