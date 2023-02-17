@@ -1,4 +1,4 @@
-a: int = 800
+a: int = 300
 b: int = a * 1
 
 print('a:', a)
